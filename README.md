@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Anish 
-- 👀 I’m interested in Web development ( .NET ) and Mobile Application Development ( Flutter ) 
+- 👀 I’m interested in Web development ( .NET ) and Mobile Application Development ( Kotlin, Flutter ) 
 - 🌱 I’m currently learning and looking for intership or starting job to sharpen my skils

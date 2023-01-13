@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/anishbasnet027/anishbasnet027/main/logo_new.png)
 <h1 align="center">Hi 👋, I'm Anish Basnet</h1>
 <h3 align="center">Passionate developer with experience in React JS, web development, and mobile app development using Flutter. Constantly learning and experimenting with new technologies to create innovative solutions.</h3>
 

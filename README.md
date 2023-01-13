@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Basnet</h1>
 <h3 align="center">Passionate developer with experience in React JS, web development, and mobile app development using Flutter. Constantly learning and experimenting with new technologies to create innovative solutions.</h3>
 
-<img align="right" alt="coding gif" width="200" src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
+<img align="right" alt="coding gif"  src="https://giphy.com/gifs/looneytunesworldofmayhem-world-of-mayhem-looney-tunes-ltwom-RbDKaczqWovIugyJmW">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishbasnet027&label=Profile%20views&color=0e75b6&style=flat" alt="anishbasnet027" /> </p>
 

@@ -1,3 +1,8 @@
 - 👋 Hi, I’m Anish 
-- 👀 I’m interested in Web development ( .NET ) and Mobile Application Development ( Kotlin, Flutter ) 
-- 🌱 I’m currently learning and looking for intership or starting job to sharpen my skils
+-Passionate developer with experience in React JS, web development, and mobile app development using Flutter. Constantly learning and experimenting with new technologies to create innovative solutions.
+
+Skills:
+React JS
+Web Development
+Flutter
+Mobile App Development

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anish Basnet</h1>
 <h3 align="center">Passionate developer with experience in React JS, web development, and mobile app development using Flutter. Constantly learning and experimenting with new technologies to create innovative solutions.</h3>
 
-<img align="right" alt="coding gif"  src="![image](https://user-images.githubusercontent.com/88276255/212255149-7e20bbfa-93be-40b7-8902-57dffdb0fe65.png)">
+<img align="right" alt="coding gif"  src="[![image](https://user-images.githubusercontent.com/88276255/212255149-7e20bbfa-93be-40b7-8902-57dffdb0fe65.png)](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anishbasnet027&label=Profile%20views&color=0e75b6&style=flat" alt="anishbasnet027" /> </p>
 

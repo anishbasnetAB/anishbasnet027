@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to work with any React **projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/anishbasnet027](https://github.com/anishbasnet027)
+- 👨‍💻 All of my projects are available at  [https://github.com/anishbasnet027](https://github.com/anishbasnet027)
 
 - 💬 Ask me about **React, Flutter**
 
